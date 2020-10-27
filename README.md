@@ -11,6 +11,7 @@ I'm studying computer science at Brigham Young University, UT 🌆
 ### Open Source Projects
 
 [![Flutter Dough](https://github-readme-stats.vercel.app/api/pin/?username=josiahsrc&repo=flutter_dough)](https://github.com/josiahsrc/flutter_dough)
+
 [![VSCode Bazel](https://github-readme-stats.vercel.app/api/pin/?username=lucidsoftware&repo=vscode-bazel)](https://github.com/lucidsoftware/vscode-bazel)
 
 ### Github Stats
