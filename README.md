@@ -12,7 +12,7 @@ I'm studying computer science at Brigham Young University, UT 🌆
 
 [![Flutter Dough](https://github-readme-stats.vercel.app/api/pin/?username=josiahsrc&repo=flutter_dough)](https://github.com/josiahsrc/flutter_dough)
 
-[![VSCode Bazel](https://github-readme-stats.vercel.app/api/pin/?username=lucidsoftware&repo=vscode-bazel)](https://github.com/lucidsoftware/vscode-bazel)
+[![VSCode Bazel](https://github-readme-stats.vercel.app/api/pin/?username=BYU-Bazel&repo=bazel-ls)](https://github.com/BYU-Bazel/bazel-ls)
 
 ### Github Stats
 
