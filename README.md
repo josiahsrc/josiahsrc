@@ -2,7 +2,7 @@
 
 I'm studying computer science at Brigham Young University, UT 🌆
 
-- 🔭 I’m currently working on the [bazel language server](https://github.com/BYU-Bazel/bazel-ls/tree/develop) extension
+- 🔭 I’m currently working on the [bazel language server](https://github.com/BYU-Bazel/bazel-ls/tree/develop)
 - 🌱 I’m currently learning how to play the cello
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
