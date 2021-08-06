@@ -2,7 +2,7 @@
 
 I'm a graduate from the computer science department at Brigham Young University, UT 🌆
 
-- 🔭 I’m currently working on the [StockMotion App](https://github.com/StockMotion)
+- 🔭 I’m currently working on making games.
 - 🌱 I’m currently learning how to play the cello
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
