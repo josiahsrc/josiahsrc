@@ -2,8 +2,8 @@
 
 I'm a graduate from the computer science department at Brigham Young University, UT 🌆
 
-- 🔭 I’m currently working on making games.
-- 🌱 I’m currently learning how to play the cello
+- 🔭 I’m currently working on personal projects
+- 🌱 I'm learning how to how to penny board down big hills
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
 - 😄 Pronouns: he/him/his
