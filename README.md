@@ -6,7 +6,6 @@ I'm a graduate from the computer science department at Brigham Young University,
 - 🌱 I'm learning how to how to penny board down big hills
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
-- 😄 Pronouns: he/him/his
 
 ### Open Source Projects
 
