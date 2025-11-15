@@ -13,4 +13,6 @@ I'm a graduate from the computer science department at Brigham Young University,
 
 [![Flutter Zustand](https://github-readme-stats.vercel.app/api/pin/?username=josiahsrc&repo=flutter_zustand)](https://github.com/josiahsrc/flutter_zustand)
 
+[![Voquill](https://github-readme-stats.vercel.app/api/pin/?username=josiahsrc&repo=voquill)](https://github.com/josiahsrc/voquill)
+
 [![VSCode Bazel](https://github-readme-stats.vercel.app/api/pin/?username=BYU-Bazel&repo=bazel-ls)](https://github.com/BYU-Bazel/bazel-ls)
